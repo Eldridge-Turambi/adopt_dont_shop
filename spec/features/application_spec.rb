@@ -45,7 +45,4 @@ RSpec.describe 'application' do
     expect(page).to have_link("Veterinary Offices")
   end
 
-  it "visits an applications show page and displays the applications' attributes" do
-    visit ''
-  end
 end
